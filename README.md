@@ -5,13 +5,13 @@ HomebridgeUIAPI steuert die Homebridge UI
 
 ### update
 
-`update add https://raw.githubusercontent.com/RP-Develop/HomebridgeUIAPI /main/controls_HomebridgeUIAPI .txt`
+`update add https://raw.githubusercontent.com/RP-Develop/HomebridgeUIAPI /main/controls_HomebridgeUIAPI.txt`
 
 ## 39_HomebridgeUIAPI.pm
 
-`define <name> HomebridgeUIAPI  Host:Port Benutzername Password`
+`define <name> HomebridgeUIAPI Host:Port Benutzername Password`
 
-Beispiel: `define HomebridgeUIAPI  HomebridgeUIAPI  192.168.0.2:8581 username password`
+Beispiel: `define HomebridgeUIAPI HomebridgeUIAPI 192.168.0.2:8581 username password`
 
 Nach kurzer Zeit sollte eine Verbindung zur Homebridge UI aufgebaut sein.
 

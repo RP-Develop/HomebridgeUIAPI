@@ -1,4 +1,4 @@
-# $Id: 39_HomebridgeUIAPI.pm xxxx 2024-02-10 18:00:00Z RP-Dev $
+# $Id: 39_HomebridgeUIAPI.pm 32613 2024-10-03 00:00:00Z RalfP $
 ###############################################################################
 #
 #     39_HomebridgeUIAPI.pm 
